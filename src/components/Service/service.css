@@ -1,0 +1,15 @@
+.slick-slider {
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .slick-slider {
+    display: block;
+  }
+}
+
+@media (min-width: 769px) {
+  .slick-slider {
+    display: none;
+  }
+}
